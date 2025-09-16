@@ -59,7 +59,7 @@ Projekt demonstruje zaawansowane techniki pracy z bazą danych:
 
 1.  Upewnij się, że masz zainstalowany **Docker Desktop**.
 2.  Uruchom kontener z bazą danych Oracle za pomocą dostarczonego polecenia `docker run`.
-3.  Zainstaluj wymagane biblioteki Pythona: `pip install -r requirements.txt` (lub ręcznie `pip install oracledb bcrypt`).
+3.  Zainstaluj wymagane biblioteki Pythona: `pip install oracledb bcrypt`.
 4.  W pliku `db_config.py` upewnij się, że dane logowania są poprawne.
 5.  Wykonaj skrypty SQL (tworzenie tabel, widoków, procedur) na bazie danych.
 6.  Uruchom główną aplikację: `python main.py`.

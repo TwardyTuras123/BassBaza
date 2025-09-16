@@ -28,9 +28,7 @@ Schemat bazy danych został zaprojektowany w celu odzwierciedlenia kluczowych fu
 *   `FishTypes`: Tabela słownikowa z gatunkami ryb.
 *   `WaterConditions`: Historyczne dane o stanie wody, kluczowe dla operacji transakcyjnych.
 
-<!--
 ![Schemat ERD](schemat.png) 
--->
 
 ## 3. Zaimplementowane Funkcjonalności
 

@@ -1,4 +1,5 @@
 # Forum Wędkarskie - Projekt Aplikacji Bazodanowej
+# Autor: Damian Chłus
 
 ## 1. Ogólny Opis Projektu
 
